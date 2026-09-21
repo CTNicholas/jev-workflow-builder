@@ -3,9 +3,9 @@ https://github.com/user-attachments/assets/7564c3be-77e2-4283-a5ad-88ff973a269b
 ## Jev workflow builder
 
 This demo shows you how to implement a multiplayer workflow builder for Jev with [Liveblocks](https://liveblocks.io/).
-Hook together Jev and LLMs, use the REST API to call the workflow, preview test runs, see multiplayer state and cursors.
+Wire together Jev and LLMs, use the REST API to call the workflow, preview test runs, see multiplayer state and cursors.
 
-### Set up Liveblocks
+### Set up
 
 - Install all dependencies with `npm install`
 - Create an account on [liveblocks.io](https://liveblocks.io/dashboard)
