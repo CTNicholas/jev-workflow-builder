@@ -14,7 +14,7 @@ Hook together Jev and LLMs, use the REST API to call the workflow, preview test 
 - Create an account on [Typesafe.ai](https://typesafe.ai/)
 - Copy your **API key** from the [console](https://console.typesafe.ai/keys)
 - Add your **API key** as the `TYPESAFE_API_KEY` environment variable
-- Create an account on [Vercel](https://vercel.com]
+- Create an account on [Vercel](https://vercel.com)
 - Copy your **AI gateway key** from the [dashboard](https://vercel.com/ai-gateway)
 - Copy your **AI gateway key** as the `AI_GATEWAY_API_KEY` environment variable
 - Run `npm run dev` and go to [http://localhost:3000](http://localhost:3000)
